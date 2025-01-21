@@ -1,6 +1,10 @@
 # Kai - Muhammed Kürşat Altıparmak
-
 **`3D Artist & Game Developer (3D Modelling, Level Design, Game Developer)`**
+<p align="left">
+    <img alt="Logo" title="" src="https://drive.google.com/uc?id=1hEsVLJOW4MHnL8Xdih-e90oxJ0qci1WT"/>
+</p>
+    
+
 
 I am passionate about 3D modeling, level design, and game development. I also have a strong interest in AI and Computer Vision. My ultimate dream is to create a game that people will cherish and play for years, leaving a lasting impression on players around the world. By combining creativity, technical expertise, and innovative technologies, I aspire to craft immersive experiences that deeply resonate with audiences.
 <p align="left">
@@ -23,7 +27,7 @@ I am passionate about 3D modeling, level design, and game development. I also ha
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
+<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
