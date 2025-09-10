@@ -1,5 +1,6 @@
 # Kai - Muhammed Kürşat Altıparmak
 **`3D Artist & Game Developer (3D Modelling, Level Design, Game Development)`**
+**[Portfolio](https://mkursat6parmak.github.io/kai-portfolio)**
 <p align="left">
     <img alt="Logo" title="" src="https://drive.google.com/uc?id=1hEsVLJOW4MHnL8Xdih-e90oxJ0qci1WT"/
 </p>
